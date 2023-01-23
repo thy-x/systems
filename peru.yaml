@@ -1,0 +1,7 @@
+imports              :
+  thy_global: ./
+
+git module thy_global:
+  url : https://github.com/thy-x/global.git
+  drop:
+    - .gitignore
